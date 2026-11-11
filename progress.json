@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T08:23:49.699Z",
+  "generated_at": "2026-11-13T08:23:51.349Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -131,6 +131,30 @@
       "path": "math/0409-schur-complements-and-the-partitioned-inverse",
       "first_solved_at": "2026-11-09T17:51:25.971Z",
       "last_pushed_at": "2026-11-09T17:51:25.971Z"
+    },
+    "math:410": {
+      "kind": "math",
+      "id": "410",
+      "title": "Woodbury, Sherman-Morrison and the Matrix Determinant Lemma",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/410",
+      "path": "math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma",
+      "first_solved_at": "2026-11-11T19:37:12.987Z",
+      "last_pushed_at": "2026-11-11T19:37:12.987Z"
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-11-11T19:42:32.245Z",
+      "last_pushed_at": "2026-11-11T19:42:32.245Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }

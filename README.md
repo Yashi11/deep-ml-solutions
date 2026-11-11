@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 5 problems · 0 labs · 6 math
+**13** solved · 6 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-11 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-07 | [solution](problems/0083-dot-product-calculator) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-07 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-07 | [solution](problems/0002-transpose-of-a-matrix) |
@@ -28,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-04 | [solution](math/0010-matrix-multiplication) |
 | [Schur Complements and the Partitioned Inverse](https://www.deep-ml.com/math-problems/409) | medium | 2026-11-09 | [solution](math/0409-schur-complements-and-the-partitioned-inverse) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-04 | [solution](math/0008-vector-norms-and-linear-independence) |
+| [Woodbury, Sherman-Morrison and the Matrix Determinant Lemma](https://www.deep-ml.com/math-problems/410) | medium | 2026-11-11 | [solution](math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma) |
 
 ---
 
