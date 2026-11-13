@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 6 problems · 0 labs · 7 math
+**14** solved · 7 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-07 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-11-04 | [solution](problems/0121-vector-element-wise-sum) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-07 | [solution](problems/0009-matrix-times-matrix) |
+| [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-13 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 
 ## Math
 
