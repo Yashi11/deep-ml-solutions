@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:54:27.328Z",
+  "generated_at": "2026-11-13T17:54:33.924Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -213,7 +213,7 @@
       "url": "https://www.deep-ml.com/math-problems/412",
       "path": "math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity",
       "first_solved_at": "2026-11-13T13:28:51.777Z",
-      "last_pushed_at": "2026-11-13T17:54:26.431Z"
+      "last_pushed_at": "2026-11-13T17:54:33.251Z"
     },
     "problem:58": {
       "kind": "problem",
