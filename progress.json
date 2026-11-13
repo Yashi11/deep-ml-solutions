@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:56:14.164Z",
+  "generated_at": "2026-11-13T12:50:49.438Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -168,6 +168,19 @@
       "last_pushed_at": "2026-11-13T09:56:13.193Z",
       "language": "python",
       "lines": 86
+    },
+    "problem:1774": {
+      "kind": "problem",
+      "id": "1774",
+      "title": "Woodbury, Sherman-Morrison and the Determinant Lemma",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1774",
+      "path": "problems/1774-woodbury-sherman-morrison-and-the-determinant-lemma",
+      "first_solved_at": "2026-11-13T12:50:48.539Z",
+      "last_pushed_at": "2026-11-13T12:50:48.539Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
