@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T15:05:06.701Z",
+  "generated_at": "2026-11-14T16:15:15.509Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -435,6 +435,19 @@
       "last_pushed_at": "2026-11-14T15:05:06.094Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-11-14T16:15:14.523Z",
+      "last_pushed_at": "2026-11-14T16:15:14.523Z",
+      "language": "python",
+      "lines": 79
     }
   }
 }
