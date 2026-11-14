@@ -18,7 +18,7 @@ def is_linearly_independent(vectors: list[list[float]]) -> bool:
     if vectors.shape[1]==0:
         return False
     rank = np.linalg.matrix_rank(vectors)
-    if rank < vectors.shape[0]:
+    if rank < vectors.shape[0]: #rank should be equal to #of columns for independence
         return False
     else:
         return True
