@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:06:27.217Z",
+  "generated_at": "2026-11-15T19:10:16.433Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -523,9 +523,9 @@
       "url": "https://www.deep-ml.com/problems/1269",
       "path": "problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product",
       "first_solved_at": "2026-11-15T19:06:26.569Z",
-      "last_pushed_at": "2026-11-15T19:06:26.569Z",
+      "last_pushed_at": "2026-11-15T19:10:15.593Z",
       "language": "python",
-      "lines": 10
+      "lines": 13
     }
   }
 }
