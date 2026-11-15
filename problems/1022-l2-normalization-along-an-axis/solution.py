@@ -12,10 +12,6 @@ def l2_normalize(x: np.ndarray, axis: int = -1, eps: float = 1e-12) -> list:
     Returns:
         Normalized array as a nested Python list.
     """
-    x = np.asarray(x, dtype=float)
-    sum_of_squares = np.sum(x ** 2, axis=axis, keepdims=True)
-    denominator = np.sqrt(sum_of_squares + eps)
-
-    result = x / denominator
-
-    return result.tolist()
+    x = np.asarray(x,dtype=float)
+    sum = np.sum(x**2,axis=axis,keepdims=True)
+    return x/(np.sqrt(sum + eps))

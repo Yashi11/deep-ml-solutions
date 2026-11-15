@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:29:49.200Z",
+  "generated_at": "2026-11-15T18:33:18.559Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -484,9 +484,9 @@
       "url": "https://www.deep-ml.com/problems/1022",
       "path": "problems/1022-l2-normalization-along-an-axis",
       "first_solved_at": "2026-11-15T18:29:48.253Z",
-      "last_pushed_at": "2026-11-15T18:29:48.253Z",
+      "last_pushed_at": "2026-11-15T18:33:17.880Z",
       "language": "python",
-      "lines": 21
+      "lines": 17
     }
   }
 }
