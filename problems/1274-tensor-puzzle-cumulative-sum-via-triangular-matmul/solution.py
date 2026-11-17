@@ -9,5 +9,5 @@ def cumsum(a: np.ndarray) -> np.ndarray:
     l = mask.astype(int)
     nu = a.T*l
     ans = nu@(np.ones(n).reshape(-1,1))
-    return ans.reshape(1,-1)[0]
+    return ans.reshape(-1) # or ans.flatten()
 
