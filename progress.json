@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:09:44.476Z",
+  "generated_at": "2026-11-17T07:28:48.490Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -708,6 +708,19 @@
       "last_pushed_at": "2026-11-17T07:09:43.769Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:1280": {
+      "kind": "problem",
+      "id": "1280",
+      "title": "Tensor Puzzle: Pad or Truncate a Vector to Length j",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1280",
+      "path": "problems/1280-tensor-puzzle-pad-or-truncate-a-vector-to-length-j",
+      "first_solved_at": "2026-11-17T07:28:47.831Z",
+      "last_pushed_at": "2026-11-17T07:28:47.831Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
