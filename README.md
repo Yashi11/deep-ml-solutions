@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**74** solved · 60 problems · 0 labs · 14 math
+**75** solved · 61 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-11-17 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-11-18 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-13 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-19 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Least-Norm Solution of an Underdetermined System](https://www.deep-ml.com/problems/1777) | medium | 2026-11-16 | [solution](problems/1777-least-norm-solution-of-an-underdetermined-system) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-13 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-07 | [solution](problems/0009-matrix-times-matrix) |
