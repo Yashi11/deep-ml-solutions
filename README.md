@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 68 problems · 0 labs · 16 math
+**85** solved · 69 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -72,6 +72,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-11-20 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-13 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-11-18 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-20 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Tensor Puzzle: Bincount by Scatter-Add](https://www.deep-ml.com/problems/1282) | medium | 2026-11-18 | [solution](problems/1282-tensor-puzzle-bincount-by-scatter-add) |
 | [Tensor Puzzle: Compress — Keep True Positions](https://www.deep-ml.com/problems/1279) | medium | 2026-11-17 | [solution](problems/1279-tensor-puzzle-compress-keep-true-positions) |
 | [Tensor Puzzle: Cumulative Sum via Triangular Matmul](https://www.deep-ml.com/problems/1274) | medium | 2026-11-17 | [solution](problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul) |
