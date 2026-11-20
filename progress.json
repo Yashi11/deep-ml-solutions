@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:38:41.848Z",
+  "generated_at": "2026-11-20T15:39:39.943Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1070,7 +1070,7 @@
       "url": "https://www.deep-ml.com/problems/802",
       "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
       "first_solved_at": "2026-11-20T15:38:40.732Z",
-      "last_pushed_at": "2026-11-20T15:38:40.732Z",
+      "last_pushed_at": "2026-11-20T15:39:38.998Z",
       "language": "python",
       "lines": 19
     }

@@ -10,7 +10,7 @@ def sgd_update(X: np.ndarray, y: np.ndarray, weights: np.ndarray, learning_rate:
     X = np.asarray(X, dtype=float)
     y = np.asarray(y, dtype=float)
     weights = np.asarray(weights, dtype=float)
-
+    # For stochastic gradient descent -> u iterate over each sample where 1 sample = 1 point -> so sequentially iterate over each point from data
     for step in range(n_iter):
         i = step % X.shape[0]
         L = (2*X[i])*(X[i]@weights-y[i])
