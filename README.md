@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 62 problems · 0 labs · 14 math
+**77** solved · 63 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -61,6 +61,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-13 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-19 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Least-Norm Solution of an Underdetermined System](https://www.deep-ml.com/problems/1777) | medium | 2026-11-16 | [solution](problems/1777-least-norm-solution-of-an-underdetermined-system) |
+| [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-20 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-13 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-07 | [solution](problems/0009-matrix-times-matrix) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-11-20 | [solution](problems/0313-numerical-gradient-checking) |
