@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**92** solved · 74 problems · 0 labs · 18 math
+**93** solved · 75 problems · 0 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-19 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-11-14 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-07 | [solution](problems/0001-matrix-vector-dot-product) |
+| [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-11-21 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-11-14 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-11-15 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-21 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
