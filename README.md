@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**105** solved · 85 problems · 0 labs · 20 math
+**106** solved · 85 problems · 0 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -116,6 +116,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-20 | [solution](math/0002-multivariate-calculus) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-11-22 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-11-19 | [solution](math/0014-orthogonality-and-projections) |
+| [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-11-22 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [Schur Complements and the Partitioned Inverse](https://www.deep-ml.com/math-problems/409) | medium | 2026-11-09 | [solution](math/0409-schur-complements-and-the-partitioned-inverse) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-11-13 | [solution](math/0013-solving-linear-systems) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-11-22 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
