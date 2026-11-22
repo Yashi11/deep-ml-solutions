@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:45:51.330Z",
+  "generated_at": "2026-11-22T11:01:14.676Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1210,6 +1210,19 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-11-22T10:45:50.709Z",
       "last_pushed_at": "2026-11-22T10:45:50.709Z"
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-11-22T11:01:14.018Z",
+      "last_pushed_at": "2026-11-22T11:01:14.018Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
