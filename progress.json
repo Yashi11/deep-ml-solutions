@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:12:57.848Z",
+  "generated_at": "2026-11-23T18:34:10.890Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1358,6 +1358,17 @@
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-11-22T16:12:57.245Z",
       "last_pushed_at": "2026-11-22T16:12:57.245Z"
+    },
+    "math:22": {
+      "kind": "math",
+      "id": "22",
+      "title": "Common Distributions II: Normal, Poisson, Exponential",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/22",
+      "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
+      "first_solved_at": "2026-11-23T18:34:10.069Z",
+      "last_pushed_at": "2026-11-23T18:34:10.069Z"
     }
   }
 }
