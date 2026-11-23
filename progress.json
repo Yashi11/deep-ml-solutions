@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:37:14.459Z",
+  "generated_at": "2026-11-23T19:43:21.306Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1380,6 +1380,17 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-11-23T18:37:13.783Z",
       "last_pushed_at": "2026-11-23T18:37:13.783Z"
+    },
+    "math:31": {
+      "kind": "math",
+      "id": "31",
+      "title": "Regularization and Generalization",
+      "difficulty": "medium",
+      "category": "Bias-variance and L2 penalty",
+      "url": "https://www.deep-ml.com/math-problems/31",
+      "path": "math/0031-regularization-and-generalization",
+      "first_solved_at": "2026-11-23T19:43:20.635Z",
+      "last_pushed_at": "2026-11-23T19:43:20.635Z"
     }
   }
 }
