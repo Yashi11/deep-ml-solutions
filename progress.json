@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:09:04.885Z",
+  "generated_at": "2026-11-24T13:57:53.813Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1424,6 +1424,19 @@
       "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
       "first_solved_at": "2026-11-23T20:09:04.154Z",
       "last_pushed_at": "2026-11-23T20:09:04.154Z"
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-11-24T13:57:52.955Z",
+      "last_pushed_at": "2026-11-24T13:57:52.955Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
