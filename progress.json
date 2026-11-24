@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:25:17.442Z",
+  "generated_at": "2026-11-24T16:35:46.709Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1461,6 +1461,19 @@
       "path": "problems/0018-implement-k-fold-cross-validation",
       "first_solved_at": "2026-11-24T16:25:15.840Z",
       "last_pushed_at": "2026-11-24T16:25:15.840Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:139": {
+      "kind": "problem",
+      "id": "139",
+      "title": "Elastic Net Regression via Gradient Descent",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/139",
+      "path": "problems/0139-elastic-net-regression-via-gradient-descent",
+      "first_solved_at": "2026-11-24T16:35:45.207Z",
+      "last_pushed_at": "2026-11-24T16:35:45.207Z",
       "language": "python",
       "lines": 29
     }
