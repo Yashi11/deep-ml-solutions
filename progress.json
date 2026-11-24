@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:01:09.475Z",
+  "generated_at": "2026-11-24T18:23:25.982Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1513,6 +1513,19 @@
       "path": "math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise",
       "first_solved_at": "2026-11-24T18:01:08.723Z",
       "last_pushed_at": "2026-11-24T18:01:08.723Z"
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-11-24T18:23:25.274Z",
+      "last_pushed_at": "2026-11-24T18:23:25.274Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
