@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**122** solved · 92 problems · 0 labs · 30 math
+**123** solved · 93 problems · 0 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-11-24 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-11-18 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-14 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-11-25 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-11-20 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Cholesky at Work: Triangular Solves, Log-Determinant and MVN Sampling](https://www.deep-ml.com/problems/1776) | medium | 2026-11-16 | [solution](problems/1776-cholesky-at-work-triangular-solves-log-determinant-and-mvn-sampling) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-13 | [solution](problems/0334-cholesky-decomposition) |
