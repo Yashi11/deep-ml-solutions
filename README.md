@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**124** solved · 94 problems · 0 labs · 30 math
+**125** solved · 94 problems · 0 labs · 31 math
 
 ![Coverage](./coverage.svg)
 
@@ -122,6 +122,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-11-20 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Bayesian Linear Regression: Posterior and Posterior Predictive](https://www.deep-ml.com/math-problems/454) | medium | 2026-11-20 | [solution](math/0454-bayesian-linear-regression-posterior-and-posterior-predictive) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-11-23 | [solution](math/0039-bias-variance-decomposition) |
+| [Coefficient Standard Errors, t-Statistics, and p-Values](https://www.deep-ml.com/math-problems/75) | medium | 2026-11-26 | [solution](math/0075-coefficient-standard-errors-t-statistics-and-p-values) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-11-23 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Condition Numbers: Why the Determinant Lies About Near-Singularity](https://www.deep-ml.com/math-problems/412) | medium | 2026-11-13 | [solution](math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-11-08 | [solution](math/0012-inverse-and-rank) |
