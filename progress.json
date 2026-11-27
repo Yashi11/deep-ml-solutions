@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:01:13.238Z",
+  "generated_at": "2026-11-27T15:29:59.933Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1611,6 +1611,17 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-11-27T15:01:12.440Z",
       "last_pushed_at": "2026-11-27T15:01:12.440Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-11-27T15:29:59.202Z",
+      "last_pushed_at": "2026-11-27T15:29:59.202Z"
     }
   }
 }
