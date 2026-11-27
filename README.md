@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**136** solved · 102 problems · 0 labs · 34 math
+**137** solved · 103 problems · 0 labs · 34 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-11-14 | [solution](problems/0201-qr-decomposition) |
 | [Tensor Puzzle: Bucketize Values into Bins](https://www.deep-ml.com/problems/1288) | hard | 2026-11-17 | [solution](problems/1288-tensor-puzzle-bucketize-values-into-bins) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-27 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
+| [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-11-27 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 
 ## Math
 
