@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**133** solved · 99 problems · 0 labs · 34 math
+**134** solved · 100 problems · 0 labs · 34 math
 
 ![Coverage](./coverage.svg)
 
@@ -78,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Grassmann Distance Between Subspaces](https://www.deep-ml.com/problems/875) | medium | 2026-11-17 | [solution](problems/0875-compute-grassmann-distance-between-subspaces) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-11-17 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-11-22 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
+| [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-11-27 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-11-27 | [solution](problems/0219-derivative-of-softmax) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-11-24 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-11-18 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
