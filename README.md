@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**140** solved · 104 problems · 0 labs · 36 math
+**141** solved · 105 problems · 0 labs · 36 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-19 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-11-24 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-11-24 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-11-28 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-11-22 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-11-22 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Least-Norm Solution of an Underdetermined System](https://www.deep-ml.com/problems/1777) | medium | 2026-11-16 | [solution](problems/1777-least-norm-solution-of-an-underdetermined-system) |
