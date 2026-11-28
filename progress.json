@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T08:36:13.489Z",
+  "generated_at": "2026-11-28T08:42:03.681Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1735,6 +1735,19 @@
       "path": "math/0128-auc-as-the-probability-of-ranking-a-positive-above-a-negative",
       "first_solved_at": "2026-11-28T08:36:12.921Z",
       "last_pushed_at": "2026-11-28T08:36:12.921Z"
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-11-28T08:42:03.092Z",
+      "last_pushed_at": "2026-11-28T08:42:03.092Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
