@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**141** solved · 105 problems · 0 labs · 36 math
+**142** solved · 106 problems · 0 labs · 36 math
 
 ![Coverage](./coverage.svg)
 
@@ -71,6 +71,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-11-17 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Bayesian Linear Regression: Sequential Posterior and Predictive Bands](https://www.deep-ml.com/problems/1817) | medium | 2026-11-20 | [solution](problems/1817-bayesian-linear-regression-sequential-posterior-and-predictive-bands) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-11-24 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
+| [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-11-28 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-11-18 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-14 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-11-25 | [solution](problems/0182-central-limit-theorem-simulation) |
